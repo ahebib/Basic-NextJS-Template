@@ -9,7 +9,9 @@ export default function Home() {
       </Head>
 
       <div>
-          <h1>NextJS Tempalte</h1>
+          <h1>NextJS Template</h1>
+
+          <a href="./projects/websites">Website Projects</a>
       </div>
     </div>
   )
