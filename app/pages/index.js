@@ -5,13 +5,14 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Next App</title>
+        <title>Home</title>
       </Head>
 
       <div>
           <h1>NextJS Template</h1>
 
-          <a href="./projects/websites">Website Projects</a>
+          <div><a href="./projects/websites">Website Projects</a></div>
+          <div><a href="./projects/movies">Movies</a></div>
       </div>
     </div>
   )

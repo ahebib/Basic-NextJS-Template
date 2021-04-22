@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/)
+Next.js React Framework
 
 ## Getting Started
 

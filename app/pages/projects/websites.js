@@ -4,7 +4,7 @@ export default function WebsiteProjects() {
   return (
     <div>
       <Head>
-        <title>Next App</title>
+        <title>Websites</title>
       </Head>
 
       <div>
